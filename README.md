@@ -1,1 +1,1 @@
-# DFS-and-BFS-in-an-undirected-graph
+Implements DFS and BFS in an undirected graph.
